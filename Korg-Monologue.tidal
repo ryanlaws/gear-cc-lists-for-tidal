@@ -1,0 +1,22 @@
+ccv 0 # ccn 16, --  EG ATTACK
+ccv 0 # ccn 17, --  EG DECAY
+ccv 0 # ccn 25, --  EG INT
+ccv 0 # ccn 24, --  LFO RATE
+ccv 0 # ccn 26, --  LFO DEPTH 
+ccv 0 # ccn 28, --  DRIVE
+ccv 0 # ccn 35, --  PITCH VCO 2 
+ccv 0 # ccn 36, --  SHAPE VCO 1
+ccv 0 # ccn 37, --  SHAPE VCO 2 
+ccv 0 # ccn 39, --  LEVEL VCO 1
+ccv 0 # ccn 40, --  LEVEL VCO 2 
+ccv 0 # ccn 43, --  CUTOFF 
+ccv 0 # ccn 44, --  RESONANCE 
+ccv 0 # ccn 49, --  OCTAVE VCO 2
+ccv 0 # ccn 50, --  WAVE VCO 1
+ccv 0 # ccn 51, --  WAVE VCO 2
+ccv 0 # ccn 56, --  LFO TARGET
+ccv 0 # ccn 58, --  LFO WAVE
+ccv 0 # ccn 59, --  LFO MODE
+ccv 0 # ccn 60, --  SYNC/RING
+ccv 0 # ccn 61, --  EG TYPE
+ccv 0 # ccn 62, --  EG TARGET

@@ -1,0 +1,11 @@
+ccv 0 # ccn 7, --   LEVEL
+ccv 0 # ccn 10, --  PAN
+ccv 0 # ccn 40, --  SAMPLE START POINT
+ccv 0 # ccn 41, --  SAMPLE LENGTH
+ccv 0 # ccn 42, --  HI CUT
+ccv 0 # ccn 43, --  SPEED
+ccv 0 # ccn 44, --  PITCH EG INT
+ccv 0 # ccn 45, --  PITCH EG ATTACK
+ccv 0 # ccn 46, --  PITCH EG DECAY
+ccv 0 # ccn 47, --  AMP EG ATTACK
+ccv 0 # ccn 48, --  AMP EG DECAY

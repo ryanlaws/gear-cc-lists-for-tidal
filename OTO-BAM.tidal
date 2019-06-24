@@ -1,0 +1,12 @@
+ccv 0 # ccn 12, -- Size
+ccv 0 # ccn 13, -- Pre Delay
+ccv 0 # ccn 14, -- Mix
+ccv 0 # ccn 15, -- Reverb Time
+ccv 0 # ccn 16, -- Damping
+ccv 0 # ccn 17, -- Active
+ccv 0 # ccn 18, -- Type
+ccv 0 # ccn 19, -- In Gain
+ccv 0 # ccn 20, -- Low-cut
+ccv 0 # ccn 21, -- High-cut
+ccv 0 # ccn 22, -- Chorus
+ccv 0 # ccn 23, -- Freeze

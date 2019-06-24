@@ -1,0 +1,43 @@
+ccv 0 # ccn 0, -- Bank Select MSB
+ccv 0 # ccn 7, -- Level
+ccv 0 # ccn 10, -- Pan
+ccv 0 # ccn 14, -- Noise Filter Frequency
+ccv 0 # ccn 15, -- Noise Filter Type
+ccv 0 # ccn 16, -- Noise Filter Envelope
+ccv 0 # ccn 17, -- Noise Filter Resonance
+ccv 0 # ccn 18, -- Noise Attack/Rate
+ccv 0 # ccn 19, -- Noise Atk Mode
+ccv 0 # ccn 20, -- Noise Decay Type (E, L, G)
+ccv 0 # ccn 21, -- Noise Decay
+ccv 0 # ccn 22, -- Noise Decay Lo
+ccv 0 # ccn 23, -- Dist Amount
+ccv 0 # ccn 24, -- Dist Type
+ccv 0 # ccn 25, -- EQ Frequency
+ccv 0 # ccn 26, -- EQ Gain
+ccv 0 # ccn 27, -- Echo Feedback
+ccv 0 # ccn 28, -- Echo Amount
+ccv 0 # ccn 29, -- Echo BPM MSB
+ccv 0 # ccn 30, -- Tone Spectra
+ccv 0 # ccn 31, -- Tone Pitch MSB
+ccv 0 # ccn 32, -- Bank Select LSB
+ccv 0 # ccn 46, -- Tone Wave
+ccv 0 # ccn 47, -- Tone Timbre Decay
+ccv 0 # ccn 48, -- Tone Punch
+ccv 0 # ccn 49, -- Tone Decay Type (L, E)
+ccv 0 # ccn 50, -- Tone Decay
+ccv 0 # ccn 51, -- Tone Dec Lo
+ccv 0 # ccn 52, -- Tone Timbre
+ccv 0 # ccn 53, -- Tone Timb Envelope
+ccv 0 # ccn 54, -- Tone Bend Amount
+ccv 0 # ccn 55, -- Tone Bend Time
+ccv 0 # ccn 56, -- Click Level
+ccv 0 # ccn 57, -- Click Type
+ccv 0 # ccn 58, -- Mix Balance
+ccv 0 # ccn 59, -- Mute Group
+ccv 0 # ccn 61, -- Echo BPM LSB
+ccv 0 # ccn 63, -- Tone Pitch LSB
+ccv 0 # ccn 70, -- Channel Focus
+-- Bank Select, Tone Pitch and Echo BPM have settings in the Nord Drum 2 that 
+-- requires a pair of LSB and MSB values (Least Significant - and Most 
+-- Significant Byte) to be acknowledged. Transmit the LSB value first, then 
+-- the MSB value.
